@@ -14,7 +14,6 @@ Amplicon sequence variants (ASVs), or unique DNA sequences, of 16S ribosomal RNA
 | FASTA | [GitHub](https://github.com/loulanomics/Full16S_sewageDatabase/raw/main/Files/Full16S_sewageDatabase_ASV.fasta.gz) |
 
 | Syntax | Description |
-| --- | ----------- |
 | Header | Title |
 | Paragraph | Text |
 
