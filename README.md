@@ -48,3 +48,5 @@ In total, 46 wastewater treatment plant influent (raw sewage) underwent 16S rRNA
 # Results
 
 <img src="https://github.com/loulanomics/Full16S_sewageDatabase/blob/main/Figures/barplot.png" width="600">
+
+![image](https://github.com/loulanomics/Full16S_sewageDatabase/blob/main/Figures/barplot.png)
