@@ -51,7 +51,7 @@ In total, 46 wastewater treatment plant influent (raw sewage) underwent 16S rRNA
 
 ### Common OTUs
 
-<img width="600" alt="barplot" src="https://user-images.githubusercontent.com/48258356/160739523-043348d6-b68e-4436-98cc-fc6c59f37155.png">
+<a href="https://github.com/loulanomics/Full16S_sewageDatabase/blob/main/Figures/barplot.png"><img width="600" alt="barplot" src="https://user-images.githubusercontent.com/48258356/160739523-043348d6-b68e-4436-98cc-fc6c59f37155.png"></a>
 
 
 The most <b>common OTUs</b> are distinct between datasets. Communities expected to have a "warm" assemblage, such as those from the South US, are very different from "cold" communities. Entire genera such as <i>Trichococcus</i> were completely absent from the most warm-like samples. In contrast, <i>Pseudomonas mendocina</i> were exlusively found in South US wastewater.
