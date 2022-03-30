@@ -43,6 +43,3 @@ In total, 46 wastewater treatment plant influent (raw sewage) underwent 16S rRNA
 2. <b>DNA sequencing.</b>  PCR amplicons were sequenced in multiplex on a PacBio Sequel II.
 
 3. <b>Data processing.</b>  Data files were subsetted to individual samples according to their assigned barcodes. Cutadapt was used to trim primers and barcodes from reads, [DADA2](https://benjjneb.github.io/dada2/tutorial.html) generated ASV counts and assigned taxonomy, and [mothur](https://mothur.org/wiki/cluster/) clustered ASVs into OTUs.
-
-
-<i>Lou LaMartina, Angie Schmoldt, Ryan Newton</i>
