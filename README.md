@@ -1,13 +1,5 @@
-{::options parse_block_html="true" /}
-
-<div class="panel panel-info">
-**Note**
-{: .panel-heading}
-<div class="panel-body">
-
-NOTE DESCRIPTION
-
-</div>
+My important paragraph.
+{: .alert .alert-info}
 </div>
 
 # Microbial marker gene reference database for wastewater
