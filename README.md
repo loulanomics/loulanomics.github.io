@@ -1,5 +1,3 @@
-Full-length 16S rRNA gene sequences, from 27F to 1492R and regions V1-V9. DNA sequences from the PacBio Sequel II were curated with DADA2, mothur, and Silva v.138. Sample information, FASTA sequences, counts, and taxonomy are publicly available in multiple formats.
-
 ## ASV files
 
 Amplicon sequence variants (ASVs), or unique DNA sequences, of 16S ribosomal RNA genes from wastewater bacteria. <b>Counts</b> files are the number of times (reads) that ASVs occur in each sample. <b>Taxonomy</b> files show the taxonomic classification of ASVs from Kingdom to Species. ASV names range from ASV0001 to ASV1041, ranked from most to least abundant. <b>FASTA</b> sequences of ASVs whose headers include ASV ID, taxonomic assignments, read count, and read direction (R1/R2). 
