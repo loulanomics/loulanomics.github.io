@@ -1,7 +1,3 @@
-My important paragraph.
-{: .alert .alert-info}
-</div>
-
 # Microbial marker gene reference database for wastewater
 
 <b>Lou LaMartina, Angie Schmoldt, Ryan Newton</b>
@@ -13,12 +9,12 @@ Full-length 16S rRNA gene sequences, from 27F to 1492R and regions V1-V9. DNA se
 Amplicon sequence variants (ASVs), or unique DNA sequences, of 16S ribosomal RNA genes from wastewater bacteria. <b>Counts</b> files are the number of times (reads) that ASVs occur in each sample. <b>Taxonomy</b> files show the taxonomic classification of ASVs from Kingdom to Species. ASV names range from ASV0001 to ASV1041, ranked from most to least abundant. <b>FASTA</b> sequences of ASVs whose headers include ASV ID, taxonomic assignments, read count, and read direction (R1/R2). 
 
 
-> Counts: [GitHub](https://raw.githubusercontent.com/loulanomics/Full16S_sewageDatabase/main/Files/Wastewater_full16S_ASV_counts.csv)
-> or [Google](https://docs.google.com/spreadsheets/d/e/2PACX-1vTyp4rmGshqL2rbSOrIGSX4R5yc4fFnRKWniIyQEWR2ctvAH1GGQBieDC2Q0eNRC71Iuhe4xqzEyudV/pubhtml)
-> 
-> Taxonomy: [GitHub](https://raw.githubusercontent.com/loulanomics/Full16S_sewageDatabase/main/Files/Wastewater_full16S_ASV_taxonomy.csv) or [Google](https://docs.google.com/spreadsheets/d/e/2PACX-1vQswVBHTgnHT4TuAjXktpaToTw4nwj0AeAcoXvOwPjjtrav-YhjhmTi_TI9tjosEQqYrsJcPXqjB9QW/pubhtml)
-> 
-> FASTA: [GitHub](https://github.com/loulanomics/Full16S_sewageDatabase/raw/main/Files/Full16S_sewageDatabase_ASV.fasta.gz)
+| Counts | [GitHub](https://raw.githubusercontent.com/loulanomics/Full16S_sewageDatabase/main/Files/Wastewater_full16S_ASV_counts.csv) | [Google](https://docs.google.com/spreadsheets/d/e/2PACX-1vTyp4rmGshqL2rbSOrIGSX4R5yc4fFnRKWniIyQEWR2ctvAH1GGQBieDC2Q0eNRC71Iuhe4xqzEyudV/pubhtml) |
+| Taxonomy | [GitHub](https://raw.githubusercontent.com/loulanomics/Full16S_sewageDatabase/main/Files/Wastewater_full16S_ASV_taxonomy.csv) | [Google](https://docs.google.com/spreadsheets/d/e/2PACX-1vQswVBHTgnHT4TuAjXktpaToTw4nwj0AeAcoXvOwPjjtrav-YhjhmTi_TI9tjosEQqYrsJcPXqjB9QW/pubhtml) |
+| FASTA | [GitHub](https://github.com/loulanomics/Full16S_sewageDatabase/raw/main/Files/Full16S_sewageDatabase_ASV.fasta.gz) |
+
+| A simple | table |
+| with multiple | lines|
 
 
 ## OTU files
