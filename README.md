@@ -1,7 +1,3 @@
-# Microbial marker gene reference database for wastewater
-
-<b>Lou LaMartina, Angie Schmoldt, Ryan Newton</b>
-
 Full-length 16S rRNA gene sequences, from 27F to 1492R and regions V1-V9. DNA sequences from the PacBio Sequel II were curated with DADA2, mothur, and Silva v.138. Sample information, FASTA sequences, counts, and taxonomy are publicly available in multiple formats.
 
 ## ASV files
@@ -47,3 +43,6 @@ In total, 46 wastewater treatment plant influent (raw sewage) underwent 16S rRNA
 2. <b>DNA sequencing.</b>  PCR amplicons were sequenced in multiplex on a PacBio Sequel II.
 
 3. <b>Data processing.</b>  Data files were subsetted to individual samples according to their assigned barcodes. Cutadapt was used to trim primers and barcodes from reads, [DADA2](https://benjjneb.github.io/dada2/tutorial.html) generated ASV counts and assigned taxonomy, and [mothur](https://mothur.org/wiki/cluster/) clustered ASVs into OTUs.
+
+
+<b>Lou LaMartina, Angie Schmoldt, Ryan Newton</b>
