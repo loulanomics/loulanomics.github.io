@@ -1,3 +1,5 @@
+{::options parse_block_html="true" /}
+
 # Microbial marker gene reference database for wastewater
 
 <b>Lou LaMartina, Angie Schmoldt, Ryan Newton</b>
