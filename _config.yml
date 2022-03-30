@@ -1,6 +1,5 @@
 theme: jekyll-theme-minimal
 title: Microbial marker gene reference database for wastewater
 logo: methods.png
-description: Full-length 16S rRNA gene sequences from a diverse sample set of untreated wastewater
 markdown: kramdown
 
