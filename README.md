@@ -1,3 +1,5 @@
+# Data availability
+
 ## ASV files
 
 Amplicon sequence variants (ASVs), or unique DNA sequences, of 16S ribosomal RNA genes from wastewater bacteria. <b>Counts</b> files are the number of times (reads) that ASVs occur in each sample. <b>Taxonomy</b> files show the taxonomic classification of ASVs from Kingdom to Species. ASV names range from ASV0001 to ASV1041, ranked from most to least abundant. <b>FASTA</b> sequences of ASVs whose headers include ASV ID, taxonomic assignments, read count, and read direction (R1/R2). 
@@ -50,4 +52,12 @@ In total, 46 wastewater treatment plant influent (raw sewage) underwent 16S rRNA
 <img width="600" alt="barplot" src="https://user-images.githubusercontent.com/48258356/160739523-043348d6-b68e-4436-98cc-fc6c59f37155.png">
 
 
-The most common OTUs are distinct between datasets. Communities expected to have a "warm" assemblage, such as those from the South US, are very different from "cold" communities. Entire genera such as <i>Trichococcus</i> were completely absent from the most warm-like samples. In contrast, <i>Pseudomonas mendocina</i> were exlusively found in South US wastewater.
+The most <b>common OTUs</b> are distinct between datasets. Communities expected to have a "warm" assemblage, such as those from the South US, are very different from "cold" communities. Entire genera such as <i>Trichococcus</i> were completely absent from the most warm-like samples. In contrast, <i>Pseudomonas mendocina</i> were exlusively found in South US wastewater.
+
+<img width="800" alt="diversity" src="https://user-images.githubusercontent.com/48258356/160739674-1e545c80-e3d0-47ad-a01b-822a9b065c6d.png">
+
+Within- (richness) and between- (similarity) <b>diversity</b> tracks what has been shown in previous studies.  Short-read V4-V5 analyses showed more within-sample diversity, however, long-read full 16S rRNA genes captured 96% of the short-read ASVs. Therefore, both short- and long-read analyses are sufficient for community analysis, but short-read (Illumina) data might better capture rare organisms, while long-read (PacBio) offers greater taxonomic resolution.
+
+<img width="600" alt="dendrogram" src="https://user-images.githubusercontent.com/48258356/160740291-28362c58-88e5-4440-aa73-b9452b69ce31.png">
+
+As seen previously ([1](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01038-5), [2](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01038-5)), wastewater temperature is a strong <b>driver</b> of microbial community structures. Warm-like wastewater samples cluster apart from cold ones. Further, relative abundances of OTUs fluctuate according to those temperatures.
