@@ -60,7 +60,7 @@ The most <b>common OTUs</b> are distinct between datasets. Communities expected 
 
 <a href="https://github.com/loulanomics/Full16S_sewageDatabase/blob/main/Figures/diversity.png"><img width="1000" alt="diversity" src="https://user-images.githubusercontent.com/48258356/160739674-1e545c80-e3d0-47ad-a01b-822a9b065c6d.png"></a>
 
-Within- (richness) and between- (similarity) <b>diversity</b> tracks what has been shown in previous studies.  Short-read V4-V5 analyses showed more within-sample diversity, however, long-read full 16S rRNA genes captured 96% of the short-read ASVs. Therefore, both short- and long-read analyses are sufficient for community analysis, but short-read (Illumina) data might better capture rare organisms, while long-read (PacBio) offers greater taxonomic resolution.
+Within- (richness) and between- (similarity) sample <b>diversity</b> tracks what has been shown in previous studies.  Short-read V4-V5 analyses showed more within-sample diversity, however, long-read full 16S rRNA genes captured 96% of the short-read ASVs. Therefore, both short- and long-read analyses are sufficient for community analysis, but short-read (Illumina) data might better capture rare organisms, while long-read (PacBio) offers greater taxonomic resolution.
 
 ### Temperature dependence
 
