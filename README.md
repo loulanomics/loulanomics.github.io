@@ -70,7 +70,7 @@ As seen previously ([1](https://microbiomejournal.biomedcentral.com/articles/10.
 
 
 # Methods overview
-<a href="https://github.com/loulanomics/Full16S_sewageDatabase/blob/main/Figures/methods.png"><img width="500" alt="methods" src="https://raw.githubusercontent.com/loulanomics/Full16S_sewageDatabase/main/Figures/methods.png"></a>
+<a href="https://github.com/loulanomics/Full16S_sewageDatabase/blob/main/Figures/methods.png"><img width="200" alt="methods" src="https://raw.githubusercontent.com/loulanomics/Full16S_sewageDatabase/main/Figures/methods.png"></a>
 
 
 
