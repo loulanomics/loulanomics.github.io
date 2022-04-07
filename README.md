@@ -71,6 +71,5 @@ As seen previously ([1](https://microbiomejournal.biomedcentral.com/articles/10.
 
 # Methods overview
 
-<a href="url"><img src="https://github.com/loulanomics/Full16S_sewageDatabase/blob/main/Figures/methods.png" width="400" ></a>
-
+<img src="https://github.com/loulanomics/Full16S_sewageDatabase/blob/main/Figures/methods.png" alt="drawing" width="200"/>
 
