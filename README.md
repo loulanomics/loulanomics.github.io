@@ -67,3 +67,9 @@ Within- (richness) and between- (similarity) sample <b>diversity</b> tracks what
 <a href="https://github.com/loulanomics/Full16S_sewageDatabase/blob/main/Figures/dendrogram.png"><img width="1000" alt="dendrogram" src="https://user-images.githubusercontent.com/48258356/160740291-28362c58-88e5-4440-aa73-b9452b69ce31.png"></a>
 
 As seen previously ([1](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01038-5), [2](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01038-5)), wastewater temperature is a strong <b>driver</b> of microbial community structures. Warm-like wastewater samples cluster apart from cold ones. Further, relative abundances of OTUs fluctuate according to those temperatures.
+
+
+# Methods overview
+
+
+ <img src="https://github.com/loulanomics/Full16S_sewageDatabase/blob/main/Figures/methods.png" width="500">
